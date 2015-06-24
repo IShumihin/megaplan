@@ -134,7 +134,7 @@ class Client:
 
     def get_employee_list(self):
         """Returns Employee card"""
-        return self.request('BumsStaffApiV01/Employee/list.api')
+        return self.request('BumsStaffApiV01/Employee/list.api', {})
 
 
 __all__ = ['Client']

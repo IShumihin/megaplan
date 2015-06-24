@@ -1,0 +1,8 @@
+setup.py
+megaplan/__init__.py
+megaplan/megaplan.py
+megaplan.egg-info/PKG-INFO
+megaplan.egg-info/SOURCES.txt
+megaplan.egg-info/dependency_links.txt
+megaplan.egg-info/requires.txt
+megaplan.egg-info/top_level.txt
